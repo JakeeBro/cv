@@ -1,0 +1,22 @@
+body {
+    background-color: #F5EAEA;
+    font-family: sans-serif;
+}
+
+hr {
+    background-color: transparent;
+    color: white;
+    border-style: none;
+    border-top: dotted;
+    border-width: 10px;
+    width: 6%;
+}
+
+#profile-picture {
+    width: 150px;
+    height: 150px;
+}
+
+h1, h3{
+    color: #66BFBF;
+}
